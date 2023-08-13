@@ -1,8 +1,6 @@
-# React + Vite
+# LinkTree Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I just wrapped up a mini side project in ReactJS - a small LinkedTree clone 🌱🔗! It was a great way to refresh my React skills and have some fun coding in my spare time.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Just Edit the data.json file. 
+Add in your links and deploy.
