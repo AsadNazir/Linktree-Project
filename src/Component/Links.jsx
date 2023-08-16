@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaMailchimp, FaGithub, FaGlobe, FaHackerrank, FaInstagram, FaLink, FaLinkedin, FaMailBulk, FaMedium, FaTwitter } from 'react-icons/fa';
+import { FaMailchimp, FaGithub, FaGlobe, FaHackerrank, FaInstagram, FaLink, FaLinkedin, FaMailBulk, FaMedium, FaTwitter, FaFacebook, FaReddit } from 'react-icons/fa';
 // Create a mapping of linkTitle values to their corresponding icons
 const iconMapping = {
   Instagram: FaInstagram,
@@ -11,6 +11,8 @@ const iconMapping = {
   Website: FaGlobe,
   Link: FaLink,
   Mail: FaMailBulk,
+  Facebook: FaFacebook,
+  Reddit: FaReddit,
 
 };
 export default function Links(props) {
